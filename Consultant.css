@@ -1,0 +1,68 @@
+
+/*-------------------------------------BANNIERE----------------------------------------*/
+
+#head_title {
+    background: linear-gradient(to top right, white,rgb(202, 202, 202) 40%) ;
+    padding: 1%;
+    display: flex;
+}
+
+.head_text {
+    font-weight: 0;
+    font-size: 2em;
+    right: 0;
+    text-align: right;
+    line-height: 250%;
+    margin-right: 2%;
+    font-family: Arial;
+    color: white;
+    word-spacing: 25%;
+    position: absolute;
+}
+
+/*------------------------------------SOUS-TITRE-----------------------------------------*/
+
+#sub_title {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    background: linear-gradient(to bottom right, white,rgb(202, 202, 202)) ;
+    align-items: center;
+    font-family: Arial;
+    padding: 10px;
+    font-size: 28px;
+}
+
+.Jeune{
+    margin-right: 2%;
+    margin-left: 2%;
+    color: deeppink;
+
+    text-decoration:none;
+}
+
+.Référent{
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: green;
+    line-height: 0px;
+    text-decoration:none;
+}
+
+.Consultant{
+    margin-right: 2%;
+    margin-left: 2%;
+    background-color: rgb(5, 172, 194);
+    background-size: 30% 30%;
+    color: white;
+    text-decoration:none;
+}
+
+.Partenaire{
+    margin-right: 2%;
+    margin-left: 2%;
+    color: gray;
+    text-decoration:none;
+}
